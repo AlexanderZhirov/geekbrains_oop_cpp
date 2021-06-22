@@ -9,6 +9,8 @@ int Student::count = 0;
 
 int main()
 {
+	// Exercise 1
+
 	Student students[] =
 	{
 		Student("Олег", 20, GENDER_MALE, 75.2, 2020),
@@ -62,24 +64,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
